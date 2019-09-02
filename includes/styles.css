@@ -1,0 +1,31 @@
+.cbutton{
+	border:none;
+	display:inline-block;
+	padding:8px 16px;
+	vertical-align:middle;
+	overflow:hidden;
+	text-decoration:none;
+	color:inherit;
+	background-color:inherit;
+	text-align:center;
+	cursor:pointer;
+	white-space:nowrap
+}
+.whity{
+	color:#000!important;
+	background-color:#FFF!important
+}
+}
+.features .row{
+      margin-left: -2em;
+}
+
+.features .row .col {
+      padding-left: 2em;
+      padding-bottom: 1em;
+}
+.test .col, .test .col-sm {
+        line-height: 2em;
+        min-height: 2em;
+        text-align: center;
+      }
